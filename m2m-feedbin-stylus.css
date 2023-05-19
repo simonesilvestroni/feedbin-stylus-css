@@ -1,0 +1,49 @@
+/* ==UserStyle==
+@name           4/20/2023, 11:52:08 AM
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    A new userstyle
+@author         Me
+==/UserStyle== */
+
+@-moz-document domain("feedbin.com") {
+  body {
+    font-family: 'Seravek', sans-serif;
+  }
+  .entry-summary-link {
+    font-size: 1.1rem;
+    line-height: 1.1;
+  }
+  .content-styles {
+    font-family: 'Iowan Old Style', serif;
+    line-height: 1.4;
+  }
+  .entry-summary-link .title-wrap .title {
+    font-size: 1.1rem;
+  }
+  .title-inner {
+    font-size: 0.9rem;
+  }
+  .entry-final-content a, .tweet-text a, .micropost-text a, .modal-content .content-styles a {
+    text-decoration-thickness: 2px;
+  }
+  .feed-list li .link-inner, .feed-list li.source-section {
+    text-transform: lowercase;
+    font-size: 0.9rem;
+    font-variant: small-caps;
+  }
+  .summary-inner, .post-meta {
+    font-family: 'Iowan Old Style', serif;
+    font-size: smaller;
+    line-height: 1.4;
+  }
+  .theme-auto .feeds:not(.dragging) .selected > a .link-inner {
+    font-weight: bold;
+  }
+  .feed-toolbar .toolbar-button {
+    font-family: 'Seravek', sans-serif;
+  }
+  code, kbd, samp, pre {
+    font-size: 1.1rem;
+  }
+}
