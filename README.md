@@ -1,4 +1,4 @@
-# Custom Stylus CSS for Feedbin
+# Feedbin - Custom CSS with Stylus 
 
 Extension homepage: https://add0n.com/stylus.html
 
