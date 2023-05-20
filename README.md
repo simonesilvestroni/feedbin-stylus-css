@@ -9,12 +9,12 @@ Featuring the same typography used of other interfaces I've been using:
 
 ## Examples
 
-![Article view](/assets/custom-css-feedbin-1.jpg "Article view")
+![Article view](assets/custom-css-feedbin-1.jpg "Article view")
 
 ***
 
-![Article with full-width image](/assets/custom-css-feedbin-2.jpg "Article with full-width image")
+![Article with full-width image](assets/custom-css-feedbin-2.jpg "Article with full-width image")
 
 ***
 
-![Article with full-width video](/assets/custom-css-feedbin-3.jpg "Article with full-width video")
+![Article with full-width video](assets/custom-css-feedbin-3.jpg "Article with full-width video")
